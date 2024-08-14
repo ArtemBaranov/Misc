@@ -8,27 +8,27 @@ http://artemonsecurity.com/ntinside_part2.zip
 
 Collection of articles about advanced rootkit techniques since 2006
 
-https://artemonsecurity.com/articles_rootkit.zip
+https://github.com/ArtemBaranov/Misc/blob/main/articles_rootkit.zip
 
 POS malware technical analysis by iSIGHT Partners
 
-https://artemonsecurity.com/KAPTOXA_20140114.pdf
+https://github.com/ArtemBaranov/Misc/blob/main/KAPTOXA_20140114.pdf
 
 Virtual Machines Detection Enhanced by rinn & EP_X0FF
 
-https://artemonsecurity.com/vmde.pdf
+https://github.com/ArtemBaranov/Misc/blob/main/vmde.pdf
 
 Snake campaign & cyber espionage toolkit by BAE Systems
 
-https://artemonsecurity.com/snake_whitepaper.pdf
+https://github.com/ArtemBaranov/Misc/blob/main/snake_whitepaper.pdf
 
 Uroburos: the snake rootkit by deresz & tecamac
 
-https://artemonsecurity.com/uroburos.pdf
+https://github.com/ArtemBaranov/Misc/blob/main/uroburos.pdf
 
 Malware Instrumentation Application to Regin Analysis by tecamac (pass: c4ujeswA)
 
-https://artemonsecurity.com/regin_analysis.pdf
+https://github.com/ArtemBaranov/Misc/blob/main/regin_analysis.pdf
 
 http://artemonsecurity.com/warriorfury.7z
 
