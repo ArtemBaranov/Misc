@@ -2,7 +2,7 @@
 
 Articles about advanced windows internals
 
-https://artemonsecurity.com/ntinside.zip
+https://github.com/ArtemBaranov/Misc/blob/main/ntinside.zip
 
 http://artemonsecurity.com/ntinside_part2.zip
 
